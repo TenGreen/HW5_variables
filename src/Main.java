@@ -7,7 +7,6 @@ public class Main {
         task5();
         task6();
         task7();
-
     }
     public static void task1() {
         int age = 15;
